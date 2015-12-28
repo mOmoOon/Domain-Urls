@@ -17,7 +17,7 @@ Options:
   
 【1】  脚本主要用来收集子域名。  
 【2】  DomainUrls.py 主文件 host.txt 里面存放 要收集的网页。  
-【3】  方法：DomainUrls.py qq.com  qq.com   #程序自动递归搜刮有管qq.com的子域名。  
+【3】  方法：DomainUrls.py qq.com  qq.com   #程序自动递归搜刮有关qq.com的子域名。  
 
 效果： 
 host.txt:  
