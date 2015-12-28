@@ -14,7 +14,8 @@ Options:
                         Dict file used to brute urldomain  
   -o OUTPUT, --output=OUTPUT  
                         Output file name. default is {target}.txt  
-  
+                        
+此版本不是穷举工具 是一款蔓延收集子域名的工具  
 【1】  脚本主要用来收集子域名。  
 【2】  DomainUrls.py 主文件 host.txt 里面存放 要收集的网页。  
 【3】  方法：DomainUrls.py qq.com  qq.com   #程序自动递归搜刮有关qq.com的子域名。  
